@@ -1,7 +1,12 @@
 # CS3244-Credit-Card-Approval
 This is the code repository for a CS3244 Class Group Project on the Credit Card Approval Dataset
 
-Description of files:
+###### Raw Dataset is avaliable at https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction 
+
+###### Please note that all notebooks are run on Google Colab
+
+
+#### Description of files:
 
 application_record.csv raw data. Not included in this repository
 
@@ -27,6 +32,3 @@ LGBM tuned.ipynb Tuning of LGBM with non-scaled data
 
 Catboost tuned.ipynb Tuning of Catboost with non-scaled data
 
-Raw Dataset is avaliable at https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction 
-
-Please note that all notebooks are run on Google Colab
